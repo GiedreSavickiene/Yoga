@@ -9,9 +9,10 @@ _32 group website project_
 
 This project is for **educational** porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: http://localhost:3000/#
+Site published at: https://giedresavickiene.github.io/Yoga/
 
-Design: [Mergaite](https://cdn.discordapp.com/attachments/850245533838868480/850246211415834634/unknown.png)
+Design: [Yoga](https://cdn.discordapp.com/attachments/850245533838868480/850246211415834634/unknown.png)
+
 
 ## Project features
 
